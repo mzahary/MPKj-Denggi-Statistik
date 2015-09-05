@@ -16,7 +16,7 @@ int dimen default_gap 0x7f050000
 int drawable aedes 0x7f020000
 int drawable borderbottom 0x7f020001
 int drawable ic_launcher 0x7f020002
-int id action_settings 0x7f040017
+int id action_settings 0x7f040013
 int id alignBounds 0x7f040002
 int id alignMargins 0x7f040003
 int id background 0x7f040012
@@ -34,10 +34,6 @@ int id horizontal 0x7f040000
 int id left 0x7f040006
 int id right 0x7f040007
 int id start 0x7f040010
-int id tableRow1 0x7f040013
-int id tableRow2 0x7f040014
-int id tableRow3 0x7f040015
-int id tableRow4 0x7f040016
 int id top 0x7f040004
 int id vertical 0x7f040001
 int layout main 0x7f030000
