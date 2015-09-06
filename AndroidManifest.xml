@@ -13,7 +13,12 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
-            android:debuggable="true">
+        android:debuggable="true">
+
+
+        <activity android:name="com.my.mpkj.activity.StatistikActivity"/>
+        <activity android:name="com.my.mpkj.activity.HomeActivity"/>
+
         <activity
             android:name="com.my.mpkj.activity.MainActivity"
             android:label="@string/app_name">
